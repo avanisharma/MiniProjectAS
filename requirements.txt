@@ -1,0 +1,6 @@
+streamlit>=1.36
+pandas>=2.0
+PyMuPDF>=1.23
+pydantic>=2.7
+openai>=1.30
+pytest>=8.0
